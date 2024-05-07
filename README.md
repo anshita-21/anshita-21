@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anshita</h1>
 <h3 align="center">A girl who loves dogs and to code. An aspiring full-stack developer exploring the 'full stack' of web technologies.</h3>
-<img align="right" alt="Coding" width="400" border-radius="40%" src="https://img.freepik.com/free-vector/cute-woman-working-laptop-with-fire-cartoon-vector-icon-illustration-people-technology-isolated_138676-6250.jpg?t=st=1715103158~exp=1715106758~hmac=9122ca4d9ffbadd391448e3b25f6cd16795728274b6edc3d357f6b866720cc4f&w=740">
+<div style="float: right; margin-left: 10px;">
+  <img src="https://img.freepik.com/free-vector/cute-woman-working-laptop-with-fire-cartoon-vector-icon-illustration-people-technology-isolated_138676-6250.jpg?t=st=1715103158~exp=1715106758~hmac=9122ca4d9ffbadd391448e3b25f6cd16795728274b6edc3d357f6b866720cc4f&w=740" alt="Coding" width="400" style="border-radius: 50%;">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshita-21&label=Profile%20views&color=0e75b6&style=flat" alt="anshita-21" /> </p>
 
 <h3 align="left">Connect with me:</h3>
