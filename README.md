@@ -7,8 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/anshita-verma-863280274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshita-verma-863280274/" height="30" width="40" /></a>
 <a href="https://instagram.com/anshita21_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshita21_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anshita21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anshita21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshitaverma2103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshitaverma2103/" height="30" width="40" /></a>
+/*<a href="https://codeforces.com/profile/anshita21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anshita21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anshitaverma2103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshitaverma2103/" height="30" width="40" /></a>*/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
